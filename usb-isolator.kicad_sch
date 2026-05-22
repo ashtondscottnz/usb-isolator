@@ -1,0 +1,40 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "f1a40f7e-46e7-4d30-9fb0-a440681461d3")
+	(paper "A4")
+	(title_block
+		(title "usb-isolator")
+		(date "2026-05-22")
+		(rev "R1")
+		(company "Ashton Scott")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+	(embedded_files
+		(file
+			(name "DefaultSheet.kicad_wks")
+			(type worksheet)
+			(data |KLUv/WDECUUUAIYcWyEAtxsWHGS5ac4JmqpzETsmP1ox3yS9Fme+cSP//z/UEwFQAEoAVAAk/o/H
+				5kn7Wk8Gx+87Lhowas3+PMeS/FrRgFm0/WTLL/kXAICAgBS9l9OatPoqy/FPJKvO+MHs1z2GjFJ6
+				1Vn7YltmHxUAAUEZIn0cMLShQiUmK1r1l/w3j80Lqz0xUymH1z7opOfsN+PwxZ49q1CIxU27+Pbb
+				P9+cK8IZ7Kr/+jjisHZtznXE1ZPS/gx+WVXtI3g/9Dzif7wJlpPtEJXLbJcsqzpCLUQvJqVUuO6y
+				ZT6H1uAiKAJmYT0pXViJVmSpzdMc34bpOg5FaIY/6Mg5m7L/9bBNHfulCITVppqpYj03m82kVwHw
+				F3doY7UDAYGhJiq2uOqFqIuLJuq8qEfZJqYLkiNuzKqhaJZJpaGAeJrF2zZIl2WXhZholE3CPexD
+				YU26STzOE996lVbKsf3un25wSA0cXNUPjhl3OjsJWi6bRQt+oPFIhhSaEilIkhQ6gESk5qgb3KyA
+				qVyv622MJYSUf8/nrycjYdV5Z9h1v6tGiGM3U+z7i2UbIDlWrdudDOI2QQbcZtEkfOJ1ugt0YcV6
+				Y31s8mtqX016HP8cV2Ga2EvlsEshzjTZ0fbEwM+B4Q18ZUkEgH1W8FN1GbjzxB8YmHXIioJPOHka
+				BN0upRsmy8apg/iC/icTY9JCDprhU/ZEDQMacvJHXUk2CznsKbfI6y+dtGoDBSHNOf2JBiVvnOGD
+				vTnmGS0J2BncGi13/HuvDBtqcNMrBIKMeoKUoKYmjgADBfnTIX1Khpe96GHyauBw0GFWj5Y5W/JA
+				QhtycrEhjJvNDXuXXk1qmpaN64PE8xB3l4s+pGOwqg==|
+			)
+			(checksum "69D0BAC1E1A17B7FFBE958B777B808A0")
+		)
+	)
+)

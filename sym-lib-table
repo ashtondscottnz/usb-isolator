@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ADuM_Isolator") (type "KiCad") (uri "${KIPRJMOD}/lib/symbols/ADuM_Isolator.kicad_sym") (options "") (descr ""))
+)
